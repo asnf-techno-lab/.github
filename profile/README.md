@@ -1,6 +1,6 @@
 # 🌌 ASNF Techno Lab
 
-> **Pushing Hardware Limits. Crafting Next-Gen Systems.**[_0][_0](_)
+> **Pushing Hardware Limits. Crafting Next-Gen Systems.**
 
 Welcome to the official GitHub Organization profile for **ASNF Techno Lab** (Advanced System & Nabil Forge). We are an indepent technology research lab and development collective specialized in premium UI/UX architectures, advanced Android system optimization, and high-performance software ecosystems.
 
